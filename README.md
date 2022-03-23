@@ -19,6 +19,6 @@
 
 - Run `flutter run` to build and run the debug app on your emulator/phone
 
-## Thanks
+## Author:
 
 - [Bagirishya Rwema](https://github.com/rwema3)
