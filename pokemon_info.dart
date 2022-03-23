@@ -58,3 +58,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
     _slideController.dispose();
     _rotateController.dispose();
 
+    super.dispose();
