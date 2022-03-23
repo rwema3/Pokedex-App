@@ -45,4 +45,3 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
       duration: Duration(milliseconds: 300),
     );
 
-    _rotateController = AnimationController(
