@@ -16,4 +16,4 @@ import 'package:pokedex/ui/widgets/animated_slide.dart';
 import 'package:pokedex/ui/widgets/auto_slideup_panel.dart';
 import 'package:pokedex/ui/widgets/hero.dart';
 import 'package:pokedex/ui/widgets/main_app_bar.dart';
-import 'package:pokedex/ui/widgets/main_tab_view.da
+import 'package:pokedex/ui/widgets/main_tab_view.d
