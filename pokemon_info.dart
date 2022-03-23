@@ -64,3 +64,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
   @override
   Widget build(BuildContext context) {
     return PokemonInfoStateProvider(
+      slideController: _slideController,
