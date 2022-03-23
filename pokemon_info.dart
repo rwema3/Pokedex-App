@@ -32,3 +32,4 @@ part 'sections/pokemon_info_card_evolutions.dart';
 class PokemonInfo extends StatefulWidget {
   @override
   _PokemonInfoState createState() => _PokemonInfoState();
+}
