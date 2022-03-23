@@ -57,7 +57,3 @@ Pokedex app built with Flutter
 - [Saepul Nahwan](https://dribbble.com/saepulnahwan23) for his [Pokedex App design](https://dribbble.com/shots/6545819-Pokedex-App)
 - [Sabri Bey](https://www.deviantart.com/sabribey) for the Pikachu gif
 - [Flutter](https://flutter.dev) for the great cross platform framework
-
-## License
-
-All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
