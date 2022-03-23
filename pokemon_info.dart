@@ -66,3 +66,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
     return PokemonInfoStateProvider(
       slideController: _slideController,
       rotateController: _rotateController,
+      child: Scaffold(
