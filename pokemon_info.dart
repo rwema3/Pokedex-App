@@ -23,4 +23,4 @@ import 'package:pokedex/ui/widgets/progress.dart';
 import 'package:pokedex/utils/string.dart';
 
 part 'sections/background_decoration.dart';
-par
+part
