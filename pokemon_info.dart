@@ -34,4 +34,3 @@ class PokemonInfo extends StatefulWidget {
   _PokemonInfoState createState() => _PokemonInfoState();
 }
 
-class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin {
