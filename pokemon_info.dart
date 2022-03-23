@@ -14,3 +14,4 @@ import 'package:pokedex/ui/screens/pokemon_info/state_provider.dart';
 import 'package:pokedex/ui/widgets/animated_fade.dart';
 import 'package:pokedex/ui/widgets/animated_slide.dart';
 import 'package:pokedex/ui/widgets/auto_slideup_panel.dart';
+import 'package:pokedex/ui/widgets/hero.dart';
