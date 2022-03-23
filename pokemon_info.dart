@@ -22,3 +22,4 @@ import 'package:pokedex/ui/widgets/pokemon_type.dart';
 import 'package:pokedex/ui/widgets/progress.dart';
 import 'package:pokedex/utils/string.dart';
 
+p
