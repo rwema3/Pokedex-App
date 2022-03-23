@@ -33,4 +33,3 @@ class PokemonInfo extends StatefulWidget {
   @override
   _PokemonInfoState createState() => _PokemonInfoState();
 }
-
