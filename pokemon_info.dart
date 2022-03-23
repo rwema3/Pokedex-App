@@ -19,4 +19,4 @@ import 'package:pokedex/ui/widgets/main_app_bar.dart';
 import 'package:pokedex/ui/widgets/main_tab_view.dart';
 import 'package:pokedex/ui/widgets/pokemon_image.dart';
 import 'package:pokedex/ui/widgets/pokemon_type.dart';
-import '
+import 
