@@ -75,3 +75,5 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
           ],
         ),
       ),
+    );
+  }
