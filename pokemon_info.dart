@@ -26,4 +26,4 @@ part 'sections/background_decoration.dart';
 part 'sections/pokemon_overall_info.dart';
 part 'sections/pokemon_info_card.dart';
 part 'sections/pokemon_info_card_about.dart';
-part 'sections/pokemon_info_
+part 'sections/pokemon_info_c
