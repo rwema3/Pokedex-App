@@ -38,3 +38,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
   late AnimationController _slideController;
   late AnimationController _rotateController;
 
+  @override
