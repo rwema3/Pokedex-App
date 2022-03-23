@@ -73,4 +73,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
             _PokemonInfoCard(),
             _PokemonOverallInfo(),
           ],
-      
+        
