@@ -68,3 +68,13 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
       rotateController: _rotateController,
       child: Scaffold(
         body: Stack(
+          children: <Widget>[
+            _BackgroundDecoration(),
+            _PokemonInfoCard(),
+            _PokemonOverallInfo(),
+          ],
+        ),
+      ),
+    );
+  }
+}
