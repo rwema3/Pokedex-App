@@ -43,4 +43,3 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
     _slideController = AnimationController(
       vsync: this,
       duration: Duration(milliseconds: 300),
-    );
