@@ -22,4 +22,4 @@ import 'package:pokedex/ui/widgets/pokemon_type.dart';
 import 'package:pokedex/ui/widgets/progress.dart';
 import 'package:pokedex/utils/string.dart';
 
-part 'sections/backgr
+part 'sections/backgro
