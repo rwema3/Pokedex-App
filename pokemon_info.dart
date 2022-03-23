@@ -44,3 +44,4 @@ class _PokemonInfoState extends State<PokemonInfo> with TickerProviderStateMixin
       vsync: this,
       duration: Duration(milliseconds: 300),
     );
+
