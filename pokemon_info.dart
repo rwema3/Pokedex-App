@@ -24,4 +24,3 @@ import 'package:pokedex/utils/string.dart';
 
 part 'sections/background_decoration.dart';
 part 'sections/pokemon_overall_info.dart';
-p
